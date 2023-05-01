@@ -14,7 +14,7 @@
 
 <div align="right"> <img src=https://w7.pngwing.com/pngs/759/922/png-transparent-telephone-logo-iphone-telephone-call-smartphone-phone-electronics-text-trademark-thumbnail.png width="20" height="20"> +91 98712 72900 </div>
 
-<div align="right"> <img src=https://www.pngfind.com/pngs/m/251-2512373_world-wide-web-logo-transparent-hd-png-download.png width="20" height="20"> https://www.thecloudtrain.com </div>
+<div align="right"> <img src=https://e7.pngegg.com/pngimages/672/611/png-clipart-web-development-internet-web-design-world-wide-web-web-design-leaf.png width="20" height="20"> https://www.thecloudtrain.com </div>
 
 <div align="right"> <img src=https://icons.iconarchive.com/icons/martz90/circle/512/email-icon.png width="20" height="20"> support@thecloudtrain.com </div>
 
