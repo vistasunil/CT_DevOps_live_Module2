@@ -110,6 +110,8 @@ To switch to the new branch, we type the command **git checkout \<branch-name\>*
 
 ### Step 11: git log
 
+`git log`
+
 Want to check the log for every commit detail in your repository? You can accomplish that using the command **git log**
 
 ![image](https://user-images.githubusercontent.com/37858762/235490569-ed3cc2d1-86f6-49b9-9c86-c3811c5083b8.png)
