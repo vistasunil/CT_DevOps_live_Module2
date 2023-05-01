@@ -9,7 +9,7 @@
 
 <div align="right"> T O A C C E L E R A T E Y O U R C A R E E R G R O W T H </div>
 
-<div align="right"> **For questions and more details:** </div>
+** <div align="right"> For questions and more details: </div> **
 
 <div align="right"> <img src=https://t4.ftcdn.net/jpg/04/63/63/59/360_F_463635935_IweuYhCqZRtHp3SLguQL8svOVroVXvvZ.jpg width="20" height="20"> +91 98712 72900, or </div>
 
