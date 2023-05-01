@@ -15,7 +15,7 @@
 
 <div align="right"> visit [https://www.thecloudtrain.com/](https://www.thecloudtrain.com/), or </div>
 
-<div align="right"> [email](https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png) [support@thecloudtrain.com](mailto:join@thecloudtrain.com), or </div>
+<div align="right"> ![email](https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png) [support@thecloudtrain.com](mailto:join@thecloudtrain.com), or </div>
 
 <div align="right"> [WhatsApp us](https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-whatsapp-icon-png-image_6315990.png) @ +91 98712 72900 </div>
 
