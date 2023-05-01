@@ -1,12 +1,14 @@
 <div align="center">
 <img src=https://static.wixstatic.com/media/1c706c_a5df0ad56f894928bf858a74ba744b32~mv2.png/v1/fit/w_2500,h_1330,al_c/1c706c_a5df0ad56f894928bf858a74ba744b32~mv2.png width="400" height="200">
  </div>
- 
+
+<span style="color:blue">some *This is Blue italic.* text</span>
+
 # <div align="center"> GIT ASSIGNMENT </p>
 
 # <div align="center"> DevOps Instructor-led Training </div>
 
-## <span style="color:blue"> Contact us &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+## <div align="right">="color:blue"> Contact us &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
 
 <div align="right"> T O A C C E L E R A T E Y O U R C A R E E R G R O W T H </div>
 
