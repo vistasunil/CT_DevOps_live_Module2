@@ -40,13 +40,13 @@
 
 ### Step 4: Once you have resolved the changes, save the file using ":wq", vim command for save and exit. Do the same for all the files.
 
-![Shape7](RackMultipart20230501-1-mpuw7n_html_a72c72e501c1cc35.gif)
+
 
 ### Step 5: After this step, see the status of your local repository you can see the file in conflict has been modified successfully and is merged with master. This modified file can now be committed to the master
 
 `git status`
 
-![Shape8](RackMultipart20230501-1-mpuw7n_html_b3e38c811bd62e7f.gif)
+
 
 ### Step 6: And finally, commit your changes, to the branch and then push it to the remote repository
 
