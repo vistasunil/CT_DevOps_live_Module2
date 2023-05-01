@@ -133,7 +133,9 @@ To stash your staged files without committing just type in git stash. If you wan
 ![image](https://user-images.githubusercontent.com/37858762/235490938-48f66d12-6f61-4b71-af17-d15847034f7a.png)
 
 **Step 13: git revert**  
-**git revert \<commit-id\>** command helps you in reverting a commit, to a previous version
+This command helps you in reverting a commit, to a previous version.
+
+`git revert <commit_id>`
 
 ![image](https://user-images.githubusercontent.com/37858762/235490970-65945de8-03e9-4695-b70d-a69a4e758771.png)
 ![image](https://user-images.githubusercontent.com/37858762/235491028-3f6af0ba-094e-4d62-ab16-eba839183da9.png)
