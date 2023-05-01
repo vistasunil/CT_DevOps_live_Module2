@@ -2,18 +2,12 @@
 <img src=https://static.wixstatic.com/media/1c706c_a5df0ad56f894928bf858a74ba744b32~mv2.png/v1/fit/w_2500,h_1330,al_c/1c706c_a5df0ad56f894928bf858a74ba744b32~mv2.png width="400" height="200">
  </p>
 
+<p align="right">
 # GIT COMMON COMMANDS
 
 # DevOps Instructor-led Training
 
-![Shape3](RackMultipart20230501-1-vxzewr_html_b3d3512c4c428143.gif)
-
- ![Shape4](RackMultipart20230501-1-vxzewr_html_cd46e5a3d7f4a5b3.gif)
-
-[
 # **Contact us**
-](https://www.abhimanyutanwar.com/)
-
 T O A C C E L E R A T E Y O U R C A R E E R G R O W T H
 
 **For questions and more details:**
@@ -25,6 +19,7 @@ visit [https://www.thecloudtrain.com/](https://www.thecloudtrain.com/), or
 email at [support@thecloudtrain.com](mailto:join@thecloudtrain.com), or
 
 WhatsApp us @ +91 98712 72900
+</p>
 
 ##
 
