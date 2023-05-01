@@ -26,6 +26,8 @@
 
 You can create a repository using the command **git init**. Navigate to your project folder and enter the command git init to initialize a git repository for your project on the local system.
 
+`git init`
+
 ![image](https://user-images.githubusercontent.com/37858762/235489958-7549be90-4a51-403e-9bad-2ca3e906885d.png)
 
 ### Step 2: git status
@@ -39,6 +41,8 @@ Once the directory has been initialized you can check the status of the files, w
 ### Step 3: git add
 
 If we want to track all the files in the project folder, we can type the command, **git add.**
+
+`git add .`
 
 ![image](https://user-images.githubusercontent.com/37858762/235490247-ece127a5-2b2f-4936-9b96-04b3dc5e3432.png)
 
