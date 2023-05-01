@@ -1,23 +1,15 @@
 <p align="center">
 <img src=https://static.wixstatic.com/media/1c706c_a5df0ad56f894928bf858a74ba744b32~mv2.png/v1/fit/w_2500,h_1330,al_c/1c706c_a5df0ad56f894928bf858a74ba744b32~mv2.png width="400" height="200">
  </p>
-
 # <div align="right"> GIT COMMON COMMANDS </div>
-
 # <div align="right"> DevOps Instructor-led Training </div>
-
 # <div align="right"> **Contact us** </div>
 <div align="right"> T O A C C E L E R A T E Y O U R C A R E E R G R O W T H </div>
-
 <div align="right"> **For questions and more details:** </div>
-
 <div align="right"> please call @ +91 98712 72900, or </div>
-
 <div align="right"> visit [https://www.thecloudtrain.com/](https://www.thecloudtrain.com/), or </div>
-
-<div align="right"> ![email](https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png) [support@thecloudtrain.com](mailto:join@thecloudtrain.com), or </div>
-
-<div align="right"> [WhatsApp us](https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-whatsapp-icon-png-image_6315990.png) @ +91 98712 72900 </div>
+<div align="right"> <img src=https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png)> [support@thecloudtrain.com](mailto:join@thecloudtrain.com), or </div>
+<div align="right"> <img src=https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-whatsapp-icon-png-image_6315990.png)> @ +91 98712 72900 </div>
 
 ## GIT COMMON COMMANDS
 
