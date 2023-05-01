@@ -11,13 +11,13 @@
 
 <div align="right"> **For questions and more details:** </div>
 
-<div align="right"> please call @ +91 98712 72900, or </div>
+<div align="right"> <img src=https://t4.ftcdn.net/jpg/04/63/63/59/360_F_463635935_IweuYhCqZRtHp3SLguQL8svOVroVXvvZ.jpg width="20" height="20"> +91 98712 72900, or </div>
 
-<div align="right"> visit [https://www.thecloudtrain.com/](https://www.thecloudtrain.com/), or </div>
+<div align="right"> <img src=https://w7.pngwing.com/pngs/827/941/png-transparent-web-development-web-design-logo-website-arrow-and-globe-logo-search-engine-optimization-text-trademark.png width="20" height="20"> https://www.thecloudtrain.com, or </div>
 
-<div align="right"> <img src=https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png width="20" height="20"> [support@thecloudtrain.com](mailto:join@thecloudtrain.com), or </div>
+<div align="right"> <img src=https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png width="20" height="20"> support@thecloudtrain.com, or </div>
 
-<div align="right"> <img src=https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-whatsapp-icon-png-image_6315990.png width="20" height="20"> @ +91 98712 72900 </div>
+<div align="right"> <img src=https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-whatsapp-icon-png-image_6315990.png width="20" height="20"> +91 98712 72900 </div>
 
 ## GIT COMMON COMMANDS
 
