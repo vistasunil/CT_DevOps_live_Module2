@@ -32,7 +32,7 @@
 
 `git mergetool`
 
-![Shape6](RackMultipart20230501-1-mpuw7n_html_a98c8bdbb86dfcdc.gif)
+
 
 ### Step 3: The merge tool looks something like this, the top leftmost column is for Dev1 Branch changes, the center column is for the original code i.e. the master's code before any commits, and the right most column are the dev 2 branch changes. The area below these columns is where we make the changes, this is the place where we have the merged code.
 
