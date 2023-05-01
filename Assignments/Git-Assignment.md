@@ -6,11 +6,11 @@
 
 # <div align="center"> DevOps Instructor-led Training </div>
 
-<p>
+</br>
 
-<p>
+</br>
  
-<p>
+</br>
 
 # $${\color{brown} &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Contact us &emsp;&emsp;&emsp; }$$
 
