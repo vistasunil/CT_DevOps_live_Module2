@@ -12,11 +12,11 @@
 
 ### <div align="right"> For questions and more details: </div>
 
-<div align="right"> <img src=https://w7.pngwing.com/pngs/759/922/png-transparent-telephone-logo-iphone-telephone-call-smartphone-phone-electronics-text-trademark-thumbnail.png width="20" height="20"> +91 98712 72900, or </div>
+<div align="right"> <img src=https://w7.pngwing.com/pngs/759/922/png-transparent-telephone-logo-iphone-telephone-call-smartphone-phone-electronics-text-trademark-thumbnail.png width="20" height="20"> +91 98712 72900 </div>
 
-<div align="right"> <img src=https://i.pinimg.com/736x/11/f2/fd/11f2fd963a2028fa67ce38ffe0e92bc5.jpg width="20" height="20"> https://www.thecloudtrain.com, or </div>
+<div align="right"> <img src=https://i.pinimg.com/736x/11/f2/fd/11f2fd963a2028fa67ce38ffe0e92bc5.jpg width="20" height="20"> https://www.thecloudtrain.com </div>
 
-<div align="right"> <img src=https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png width="20" height="20"> support@thecloudtrain.com, or </div>
+<div align="right"> <img src=https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png width="20" height="20"> support@thecloudtrain.com </div>
 
 <div align="right"> <img src=https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-whatsapp-icon-png-image_6315990.png width="20" height="20"> +91 98712 72900 </div>
 
