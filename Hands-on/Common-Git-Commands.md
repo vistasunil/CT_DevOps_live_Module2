@@ -4,27 +4,20 @@
 
 # <div align="right"> GIT COMMON COMMANDS </div>
 
-# DevOps Instructor-led Training
+# <div align="right"> DevOps Instructor-led Training </div>
 
-# **Contact us**
-T O A C C E L E R A T E Y O U R C A R E E R G R O W T H
+# <div align="right"> **Contact us** </div>
+<div align="right"> T O A C C E L E R A T E Y O U R C A R E E R G R O W T H </div>
 
-**For questions and more details:**
+<div align="right"> **For questions and more details:** </div>
 
-please call @ +91 98712 72900, or
+<div align="right"> please call @ +91 98712 72900, or </div>
 
-visit [https://www.thecloudtrain.com/](https://www.thecloudtrain.com/), or
+<div align="right"> visit [https://www.thecloudtrain.com/](https://www.thecloudtrain.com/), or </div>
 
-email at [support@thecloudtrain.com](mailto:join@thecloudtrain.com), or
+<div align="right"> [email](https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png) [support@thecloudtrain.com](mailto:join@thecloudtrain.com), or </div>
 
-WhatsApp us @ +91 98712 72900
-</style>
-
-##
-
-
-##
-
+<div align="right"> [WhatsApp us](https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-whatsapp-icon-png-image_6315990.png) @ +91 98712 72900 </div>
 
 ## GIT COMMON COMMANDS
 
