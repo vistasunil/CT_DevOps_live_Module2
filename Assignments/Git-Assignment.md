@@ -16,7 +16,7 @@
 
 # $${\color{brown} &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Contact us: &emsp;&emsp;&emsp; }$$
 
-<div align="right"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; T O A C C E L E R A T E Y O U R C A R E E R G R O W T H </div>
+<div align="right"> T O A C C E L E R A T E Y O U R C A R E E R G R O W T H </div>
 
 ### <div align="right"> For questions and more details: </div>
 
