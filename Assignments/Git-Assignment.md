@@ -2,8 +2,6 @@
 <img src=https://static.wixstatic.com/media/1c706c_a5df0ad56f894928bf858a74ba744b32~mv2.png/v1/fit/w_2500,h_1330,al_c/1c706c_a5df0ad56f894928bf858a74ba744b32~mv2.png width="400" height="200">
  </div>
 
-<strong style="color: red; opacity: 0.80;">My Bold Text, in red color.</strong> }
-
 # <div align="center"> GIT ASSIGNMENT </p>
 
 # <div align="center"> DevOps Instructor-led Training </div>
@@ -138,3 +136,5 @@ main(){
 4. Review and understand the content of this file and try to run the workflows from Action tab by making some changes to the repo content or adding files to repo.
 5. Review the logs of each run. All the above three workflows will tigger together upon any changes in the repo.
 
+
+<strong style="color: red; opacity: 0.80;">My Bold Text, in red color.</strong> }
