@@ -32,7 +32,7 @@ You can create a repository using the command **git init**. Navigate to your pro
 
 Once the directory has been initialized you can check the status of the files, whether they are being tracked by git or not, using the command **git status.**
 
-$ git status
+`git status`
 
 ![image](https://user-images.githubusercontent.com/37858762/235490222-05a5244d-3930-4ab6-9c49-a40995ec592b.png)
 
