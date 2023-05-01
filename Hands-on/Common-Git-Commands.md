@@ -13,9 +13,9 @@
 
 <div align="right"> please call @ +91 98712 72900, or </div>
 
-<p align="center"> visit [https://www.thecloudtrain.com/](https://www.thecloudtrain.com/), or </p>
+<div align="right"> visit [https://www.thecloudtrain.com/](https://www.thecloudtrain.com/), or </div>
 
-<div align="right"> <img src=https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png> [support@thecloudtrain.com](mailto:join@thecloudtrain.com), or </div>
+<div align="right"> <img src=https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png width="50" height="50"> [support@thecloudtrain.com](mailto:join@thecloudtrain.com), or </div>
 
 <div align="right"> <img src=https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-whatsapp-icon-png-image_6315990.png> @ +91 98712 72900 </div>
 
