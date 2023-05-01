@@ -26,7 +26,7 @@
 
 You can create a repository using the command **git init**. Navigate to your project folder and enter the command git init to initialize a git repository for your project on the local system.
 
-![](RackMultipart20230501-1-vxzewr_html_8e439cd334784e83.png)
+![image](https://user-images.githubusercontent.com/37858762/235489958-7549be90-4a51-403e-9bad-2ca3e906885d.png)
 
 ### Step 2: git status
 
