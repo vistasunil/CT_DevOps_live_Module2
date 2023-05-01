@@ -13,7 +13,7 @@
 
 <div align="right"> please call @ +91 98712 72900, or </div>
 
-<div align="right"> visit [https://www.thecloudtrain.com/](https://www.thecloudtrain.com/), or </div>
+<p align="center"> visit [https://www.thecloudtrain.com/](https://www.thecloudtrain.com/), or </p>
 
 <div align="right"> <img src=https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png)> [support@thecloudtrain.com](mailto:join@thecloudtrain.com), or </div>
 
