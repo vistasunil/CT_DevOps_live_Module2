@@ -4,11 +4,11 @@
  
 # <p align="center"> GIT COMMON COMMANDS </p>
 
-# <div align="center"> DevOps Instructor-led Training </div>
+# <p align="center"> DevOps Instructor-led Training </p>
 
-## <div align="right">Contact us</div>
+## <p align="right">Contact us</p>
 
-<div align="right"> T O A C C E L E R A T E Y O U R C A R E E R G R O W T H </div>
+<p align="right"> T O A C C E L E R A T E Y O U R C A R E E R G R O W T H </p>
 
 ### <div align="right"> For questions and more details: </div>
 
