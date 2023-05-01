@@ -30,7 +30,7 @@ This command can be executed using the syntax
 
 ![image](https://user-images.githubusercontent.com/37858762/235511825-8d6a3153-4f6d-4f52-b4e6-ddd765ea89f7.png)
 
-### Step : git log
+### Step 2: git log
 
 Use the following command to get the history of the branch.
 
