@@ -1,6 +1,4 @@
-![Shape1](RackMultipart20230501-1-vxzewr_html_61a3197751e7d0fe.gif) ![](RackMultipart20230501-1-vxzewr_html_d4ad37fe7d962e79.jpg)
-
-![Shape2](RackMultipart20230501-1-vxzewr_html_1a53a2df3deb11de.gif)
+![Alt text]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://static.wixstatic.com/media/1c706c_a5df0ad56f894928bf858a74ba744b32~mv2.png/v1/fit/w_2500,h_1330,al_c/1c706c_a5df0ad56f894928bf858a74ba744b32~mv2.png) "a title")
 
 # GIT COMMON COMMANDS
 
