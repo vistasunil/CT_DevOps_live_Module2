@@ -1,17 +1,17 @@
 <p align="center">
 <img src=https://static.wixstatic.com/media/1c706c_a5df0ad56f894928bf858a74ba744b32~mv2.png/v1/fit/w_2500,h_1330,al_c/1c706c_a5df0ad56f894928bf858a74ba744b32~mv2.png width="400" height="200">
  </p>
-# <div align="right"> GIT COMMON COMMANDS </div>
+# <div align="center"> GIT COMMON COMMANDS </div>
 
-# <div align="right"> DevOps Instructor-led Training </div>
+# <div align="center"> DevOps Instructor-led Training </div>
 
-# <div align="right"> **Contact us** </div>
+## <div align="right"><u> Contact us </u></div>
 
 <div align="right"> T O A C C E L E R A T E Y O U R C A R E E R G R O W T H </div>
 
-** <div align="right"> For questions and more details: </div> **
+###<div align="right"> For questions and more details: </div>
 
-<div align="right"> <img src=https://t4.ftcdn.net/jpg/04/63/63/59/360_F_463635935_IweuYhCqZRtHp3SLguQL8svOVroVXvvZ.jpg width="20" height="20"> +91 98712 72900, or </div>
+<div align="right"> <img src=https://t4.ftcdn.net/jpg/04/63/63/59/360_F_463635935_IweuYhCqZRtHp3SLguQL8svOVroVXvvZ.jpg width="30" height="30"> +91 98712 72900, or </div>
 
 <div align="right"> <img src=https://w7.pngwing.com/pngs/827/941/png-transparent-web-development-web-design-logo-website-arrow-and-globe-logo-search-engine-optimization-text-trademark.png width="20" height="20"> https://www.thecloudtrain.com, or </div>
 
