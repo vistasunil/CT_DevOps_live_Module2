@@ -95,7 +95,7 @@ The git pull command is also used for pulling the latest changes from the reposi
 
 Until now, we saw how you can work on git. But now imagine, multiple developers working on the same project or repository. To handle the workspace of multiple developers, we use branches. To create a branch from an existing branch, we type **git branch \<name-of-new-branch\>**
 
-Similarly, to delete a branch use the command **git branch –D \<branch name\>**
+Similarly, to delete a branch use the command **git branch -D \<branch name\>**
 
 `git branch <name-of-new-branch>`
 
